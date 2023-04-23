@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "shopnest-mobile",
+    "slug": "shopnest-mobile",
+    "extra": {
+      "eas": {
+        "projectId": "b4a795d2-dfed-4a0f-901b-31a5918e43b2"
+      }
+    }
+  }
+}
